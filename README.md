@@ -67,3 +67,17 @@ The application displays:
 
 A CSV file is generated to store collected readings for further analysis.
 
+## Results
+
+### Finger Mode Detection
+<img width="506" height="410" alt="image" src="https://github.com/user-attachments/assets/3c77f97b-53c9-4387-a23e-ebd6771dc957" />
+
+
+### Face-Based Detection
+<img width="471" height="378" alt="image" src="https://github.com/user-attachments/assets/781fa896-f66b-489a-b8bc-9943a7be3138" />
+
+
+### BPM vs Time Graph
+<img width="506" height="385" alt="image" src="https://github.com/user-attachments/assets/f8dcc091-9e2b-46dc-8110-08f62cf2f9ca" />
+
+
